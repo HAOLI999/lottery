@@ -1,4 +1,4 @@
-# 班级抽奖系统
+# 班级抽奖系统 / Lottery System
 
 一个简单而有趣的班级抽奖网页应用，使用Next.js和React构建。
 
@@ -58,4 +58,4 @@ npm start
 
 - 本应用使用浏览器本地存储保存数据，清除浏览器缓存会导致数据丢失
 - 每个学生只能抽奖一次
-- 管理员账号默认为：学号 admin，姓名 Administrator 
+- 管理员账号默认为：学号 admin，姓名 Administrator
